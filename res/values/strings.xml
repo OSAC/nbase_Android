@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GBase</string>
+    <string name="title_app_name">GBase: Base Convertor ( BODH ) </string>
+    <string name="action_settings">Settings</string>
+	<string name="lblBinary">Binary</string>
+	<string name="lblDecimal">Decimal</string>
+	<string name="lblOctal">Octal</string>
+	<string name="lblHex">Hex</string>
+	<string name="btnClear">Clear</string>
+	<string name="btnQuit">Quit</string>
+	<string name="btnCopy">Copy</string>
+	<string name="intro">App idea inspired by Linux app gbase.</string>
+
+</resources>
